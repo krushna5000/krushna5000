@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krushna Vasant Kakde</h1>
-<h3 align="center">
+<h3 align="Left">
 💻 Java Developer | Spring Boot | AI & GenAI Enthusiast | Full Stack Learner  
 I build clean, scalable web apps using Java, Spring Boot, React, and explore the power of AI & Generative AI to create smarter solutions.  
 Skilled in Java, REST APIs, MySQL, React, and diving into AI tools like ChatGPT, LangChain, and ML basics.  
