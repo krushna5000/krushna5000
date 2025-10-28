@@ -17,7 +17,14 @@ Open to backend, full-stack, or AI-integrated roles. Let’s connect and innovat
   <a href="https://instagram.com/krushna5000" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krushna Instagram" height="30" width="40" />
   </a>
+  <a href="mailto:krushna5000@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Krushna Email" height="30" width="40" />
+  </a>
+  <a href="https://krushna5000.github.io/Portfolio/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Krushna Portfolio" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
