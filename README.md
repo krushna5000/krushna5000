@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Krushna Vasant Kakde</h1>
-<h3 align="Left">💻 Java Developer | Spring Boot | AI & GenAI Enthusiast | Full Stack Learner  
-I build clean, scalable web apps using Java, Spring Boot, React, and explore the power of AI & Generative AI to create smarter solutions.  
-Skilled in Java, REST APIs, MySQL, React, and diving into AI tools like ChatGPT, LangChain, and ML basics.  
-Built full-stack projects, eCommerce apps, and mobile apps with React Native. 🚀  
+<p style="text-align: justify;">
+💻 <b>Java Developer | Spring Boot | AI & GenAI Enthusiast | Full Stack Learner</b><br><br>
+I build clean, scalable web apps using Java, Spring Boot, React, and explore the power of AI & Generative AI to create smarter solutions.<br><br>
+Skilled in Java, REST APIs, MySQL, React, and diving into AI tools like ChatGPT, LangChain, and ML basics.<br><br>
+Built full-stack projects, eCommerce apps, and mobile apps with React Native. 🚀<br><br>
 Open to backend, full-stack, or AI-integrated roles. Let’s connect and innovate together!
-</h3>
+</p>
+
 
 ---
 ### 🛠️ Languages and Tools:
