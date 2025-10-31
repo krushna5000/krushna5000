@@ -23,7 +23,11 @@ Open to backend, full-stack, or AI-integrated roles. Let’s connect and innovat
   <a href="https://krushna5000.github.io/Portfolio/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Krushna Portfolio" height="30" width="40" />
   </a>
+  <a href="https://wa.me/7743891860" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Krushna WhatsApp" height="30" width="40" />
+  </a>
 </p>
+
 
 
 
