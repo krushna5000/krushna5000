@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krushna Vasant Kakde</h1>
-<h3 align="Left">
-💻 Java Developer | Spring Boot | AI & GenAI Enthusiast | Full Stack Learner  
+<h3 align="Left">💻 Java Developer | Spring Boot | AI & GenAI Enthusiast | Full Stack Learner  
 I build clean, scalable web apps using Java, Spring Boot, React, and explore the power of AI & Generative AI to create smarter solutions.  
 Skilled in Java, REST APIs, MySQL, React, and diving into AI tools like ChatGPT, LangChain, and ML basics.  
 Built full-stack projects, eCommerce apps, and mobile apps with React Native. 🚀  
@@ -8,31 +7,6 @@ Open to backend, full-stack, or AI-integrated roles. Let’s connect and innovat
 </h3>
 
 ---
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/krushna5000" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krushna LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/krushna5000" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krushna Instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:krushna5000@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Krushna Email" height="30" width="40" />
-  </a>
-  <a href="https://krushna5000.github.io/Portfolio/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Krushna Portfolio" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/7743891860" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Krushna WhatsApp" height="30" width="40" />
-  </a>
-</p>
-
-
-
-
----
-
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -53,6 +27,26 @@ Open to backend, full-stack, or AI-integrated roles. Let’s connect and innovat
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
+
+---
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/krushna5000" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krushna LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/krushna5000" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krushna Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:krushna5000@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Krushna Email" height="30" width="40" />
+  </a>
+  <a href="https://krushna5000.github.io/Portfolio/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Krushna Portfolio" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/7743891860" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Krushna WhatsApp" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
