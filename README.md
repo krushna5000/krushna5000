@@ -50,9 +50,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushna5000&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
+<!-- <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=krushna5000&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushna5000&theme=radical" alt="GitHub Streak" />
