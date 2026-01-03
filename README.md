@@ -26,20 +26,10 @@
 ---
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/krushna5000" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krushna LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/krushna5000" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krushna Instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:krushna5000@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Krushna Email" height="30" width="40" />
-  </a>
-  <a href="https://krushna5000.github.io/Portfolio/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Krushna Portfolio" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/7743891860" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Krushna WhatsApp" height="30" width="40" />
-  </a>
+  🔗 <a href="https://linkedin.com/in/krushna5000">LinkedIn</a> |
+  📸 <a href="https://instagram.com/krushna5000">Instagram</a> |
+  ✉️ <a href="mailto:krushna5000@gmail.com">Email</a> |
+  🌐 <a href="https://krushna5000.github.io/Portfolio/">Portfolio</a> |
+  💬 <a href="https://wa.me/7743891860">WhatsApp</a>
 </p>
 
