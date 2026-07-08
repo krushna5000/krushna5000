@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krushna Kakde</h1>
-<h3 align="center">Full-Stack Software Developer (MERN Stack) | RESTful APIs | Cloud & IIoT Solutions</h3>
+<h3 align="center">Full-Stack Software Developer (MERN Stack) | RESTful APIs | Cloud </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Full--Time%20Opportunities-success?style=for-the-badge" alt="Open to Work"/>
