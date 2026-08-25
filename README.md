@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Krushna Kakde</h1>
-<h3 align="center">Full-Stack Software Developer (MERN Stack) | RESTful APIs | Cloud </h3>
+<h3 align="center">Full-Stack Software Developer | RESTful APIs | Cloud</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20Opportunities-success?style=for-the-badge" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-Devanta%20Tech-success?style=for-the-badge" alt="Software Developer at Devanta Tech"/>
 </p>
 
 <h4 align="center">
 Full-Stack Developer with hands-on experience building production apps in MongoDB, Express.js, React.js & Node.js.
-Currently building IIoT and industrial cloud automation software as a MERN Stack Developer Intern at Devanta Tech.
+Currently building IIoT and industrial cloud automation software as a Software Developer at Devanta Tech.
 Skilled in RESTful API design, JWT authentication, and relational/NoSQL database design — comfortable owning a
 feature end-to-end in an Agile team.
 </h4>
@@ -16,9 +16,10 @@ feature end-to-end in an Agile team.
 
 ### 💼 Currently
 
-- 🔭 Working as a **MERN Stack Developer Intern @ [Devanta Tech](https://devanta.tech)** — building scalable full-stack apps for IIoT & industrial cloud automation, designing secure REST APIs with JWT auth for enterprise clients.
+- 🔭 Working as a **Software Developer @ [Devanta Tech](https://devanta.tech)** — building scalable full-stack apps for IIoT & industrial cloud automation, designing secure REST APIs with JWT auth for enterprise clients.
+- 📈 Promoted to full-time after a 6-month **MERN Stack Developer Intern** stint at Devanta Tech (Jan–Jun 2026).
 - 🌱 Previously **MERN Stack Intern @ Farmseasy** — shipped 6+ industry-level projects, improving user satisfaction by 30% and cutting design-to-dev handoff time by 20%.
-- 🎓 B.E. Computer Engineering, Deogiri Institute of Engineering and Management Studies (DIEMS) — CGPA 7.43/10, graduating May 2026.
+- 🎓 B.E. Computer Engineering, Deogiri Institute of Engineering and Management Studies (DIEMS) — CGPA 7.43/10, graduated May 2026.
 - 📄 [Download my Resume](https://krushna5000.github.io/Portfolio/assets/Krushna_Kakde_Resume.pdf)
 
 ---
@@ -88,6 +89,7 @@ feature end-to-end in an Agile team.
 
 <p align="left">
   🔗 <a href="https://linkedin.com/in/krushna5000">LinkedIn</a> |
+  💻 <a href="https://github.com/krushna5000">GitHub</a> |
   ✉️ <a href="mailto:krushnak5000@gmail.com">Email</a> |
   🌐 <a href="https://krushna5000.github.io/Portfolio/">Portfolio</a> |
   💬 <a href="https://wa.me/917743891860">WhatsApp</a>
