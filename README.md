@@ -55,25 +55,6 @@ feature end-to-end in an Agile team.
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-**[TradeWithAI](https://github.com/krushna5000/TradeWithAi)** — AI-powered crypto trading & portfolio management platform (Spring Boot, React, Tailwind, MySQL, Spring Security, Gemini API, CoinGecko API) with JWT auth, 2FA, and Razorpay/Stripe payments.
-
-**[TinyNeedsApp](https://github.com/krushna5000/Parenting-Pathways)** — Cross-platform mobile shopping app for baby essentials (React Native, Expo, Supabase, Stripe). Optimized checkout flow, cutting user drop-offs by 20% with real-time sync across devices.
-
-📌 More projects on my [Portfolio](https://krushna5000.github.io/Portfolio/) and pinned repos below.
-
----
-
-### 🏆 Certifications
-
-- Oracle Cloud Certified Generative AI Professional — Oracle (Sep 2025)
-- Oracle Cloud Certified AI Foundations Associate — Oracle (Aug 2025)
-- Postman API Fundamentals Student Expert — Postman (Sep 2025)
-
 ---
 
 ### 📊 GitHub Stats
