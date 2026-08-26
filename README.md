@@ -57,15 +57,6 @@ feature end-to-end in an Agile team.
 </p>
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=krushna5000&show_icons=true&theme=default&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushna5000&layout=compact&theme=default" height="165" alt="Top languages"/>
-</p>
-
----
-
 ### 🌐 Connect with me
 
 <p align="left">
