@@ -64,5 +64,4 @@ feature end-to-end in an Agile team.
   💻 <a href="https://github.com/krushna5000">GitHub</a> |
   ✉️ <a href="mailto:krushnak5000@gmail.com">Email</a> |
   🌐 <a href="https://krushna5000.github.io/Portfolio/">Portfolio</a> |
-  💬 <a href="https://wa.me/917743891860">WhatsApp</a>
 </p>
